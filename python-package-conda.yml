@@ -1,0 +1,35 @@
+2021-10-30T02:58:52.4897921Z Current runner version: '2.283.3'
+2021-10-30T02:58:52.4929719Z ##[group]Operating System
+2021-10-30T02:58:52.4930799Z Ubuntu
+2021-10-30T02:58:52.4931249Z 20.04.3
+2021-10-30T02:58:52.4931622Z LTS
+2021-10-30T02:58:52.4932070Z ##[endgroup]
+2021-10-30T02:58:52.4932558Z ##[group]Virtual Environment
+2021-10-30T02:58:52.4933395Z Environment: ubuntu-20.04
+2021-10-30T02:58:52.4934107Z Version: 20211017.0
+2021-10-30T02:58:52.4935030Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu20/20211017.0/images/linux/Ubuntu2004-README.md
+2021-10-30T02:58:52.4936255Z Image Release: https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20211017.0
+2021-10-30T02:58:52.4937010Z ##[endgroup]
+2021-10-30T02:58:52.4937632Z ##[group]Virtual Environment Provisioner
+2021-10-30T02:58:52.4938189Z 1.0.0.0-master-20211022-1
+2021-10-30T02:58:52.4938691Z ##[endgroup]
+2021-10-30T02:58:52.4940702Z ##[group]GITHUB_TOKEN Permissions
+2021-10-30T02:58:52.4942067Z Actions: write
+2021-10-30T02:58:52.4942709Z Checks: write
+2021-10-30T02:58:52.4943405Z Contents: write
+2021-10-30T02:58:52.4943865Z Deployments: write
+2021-10-30T02:58:52.4944427Z Discussions: write
+2021-10-30T02:58:52.4944877Z Issues: write
+2021-10-30T02:58:52.4945343Z Metadata: read
+2021-10-30T02:58:52.4945781Z Packages: write
+2021-10-30T02:58:52.4946262Z Pages: write
+2021-10-30T02:58:52.4946814Z PullRequests: write
+2021-10-30T02:58:52.4947352Z RepositoryProjects: write
+2021-10-30T02:58:52.4947946Z SecurityEvents: write
+2021-10-30T02:58:52.4948421Z Statuses: write
+2021-10-30T02:58:52.4949039Z ##[endgroup]
+2021-10-30T02:58:52.4952436Z Prepare workflow directory
+2021-10-30T02:58:52.5658069Z Prepare all required actions
+2021-10-30T02:58:52.5668793Z Getting action download info
+2021-10-30T02:58:53.0887641Z Download action repository 'actions/checkout@v2' (SHA:1e204e9a9253d643386038d443f96446fa156a97)
+2021-10-30T02:58:54.2341377Z Download action repository 'actions/setup-python@v2' (SHA:dc73133d4da04e56a135ae2246682783cc7c7cb6
