@@ -1,0 +1,8 @@
+2021-10-30T02:58:56.3286763Z ##[group]Run actions/setup-python@v2
+2021-10-30T02:58:56.3287225Z with:
+2021-10-30T02:58:56.3287579Z   python-version: 3.1
+2021-10-30T02:58:56.3288301Z   token: ***
+2021-10-30T02:58:56.3288639Z ##[endgroup]
+2021-10-30T02:58:56.3892718Z Version 3.1 was not found in the local cache
+2021-10-30T02:58:56.8111082Z ##[error]Version 3.1 with arch x64 not found
+The list of all available versions can be found here: https://raw.githubusercontent.com/actions/python-versions/main/versions-manifest.json
